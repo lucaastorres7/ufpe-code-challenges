@@ -1,4 +1,4 @@
-# A paixão de Alice por Leclerc
+# A Paixão de Alice por Leclerc
 
 Alice é uma nordestina que ama Fórmula 1 e é ainda mais encantada por Charles Leclerc. Ela assiste todas as corridas da temporada e adora fazer comentários com a TV (assim como sua mãe quando assiste novela). Ela deseja acompanhar a pontuação do seu piloto favorito e comparar com a pontuação do seu maior rival nas pistas, o piloto Max Verstappen
 

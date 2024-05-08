@@ -1,4 +1,4 @@
-weather = input() # ensolarado, nublado e chuvoso.
+weather = input()
 
 if(weather == "chuvoso"):
     wet_track = input()
@@ -7,9 +7,9 @@ if(weather == "chuvoso"):
     elif(wet_track == "False"):
         wet_track_bool = False
 
-track_temperature = input() # alta, moderada e baixa.
-training_performance = input() # bom ou ruim.
-starting_position = int(input()) # 1 to 20
+track_temperature = input()
+training_performance = input()
+starting_position = int(input())
 
 print("Estratégia de prova de Max Verstappen!")
 
