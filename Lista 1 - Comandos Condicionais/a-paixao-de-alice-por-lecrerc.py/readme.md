@@ -30,7 +30,8 @@ De acordo com os valores da entrada, você deve imprimir na tela as frases de Al
 "Oxe! E vai morrer por causa de 25 pontos?”
 
 - Caso contrário:
-  → Se Charles for o primeiro colocado:
+
+→ Se Charles for o primeiro colocado:
 
 "O meu favorito venceu! Pode torar o aco Verstappen"
 

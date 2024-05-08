@@ -1,0 +1,2 @@
+valor1, operador, valor2 = int(input()), input(), int(input())
+print(valor1+valor2) if operador == "+" else print(valor1-valor2) if operador == "-" else print (valor1*valor2) if operador == "*" else print(valor1//valor2) if operador == "/" else print("Erro: operador não reconhecido.")

@@ -1,0 +1,43 @@
+pilot_A = input()
+time_A = float(input())
+pilot_B = input()
+time_B = float(input())
+pilot_C = input()
+time_C = float(input())
+
+if(time_A < time_B) and (time_B < time_C):
+    print("E o Pódio do GP de Mônaco é:")
+    print(f"{pilot_A} está no lugar mais alto do pódio com tempo de {time_A} horas de corrida.")
+    print(f"{pilot_B} está no segundo lugar do pódio com tempo de {time_B} horas de corrida.")
+    print(f"{pilot_C} está no terceiro lugar do pódio com tempo de {time_C} horas de corrida.")
+    print(f"Galvão, temos um momento histórico da Fórmula 1, {pilot_A} acaba de fazer história no GP de Mônaco ao terminar a corrida com {time_A} horas de prova.")
+elif(time_A < time_C) and (time_C < time_B):
+    print("E o Pódio do GP de Mônaco é:")
+    print(f"{pilot_A} está no lugar mais alto do pódio com tempo de {time_A} horas de corrida.")
+    print(f"{pilot_C} está no segundo lugar do pódio com tempo de {time_C} horas de corrida.")
+    print(f"{pilot_B} está no terceiro lugar do pódio com tempo de {time_B} horas de corrida.")
+    print(f"Galvão, temos um momento histórico da Fórmula 1, {pilot_A} acaba de fazer história no GP de Mônaco ao terminar a corrida com {time_A} horas de prova.")
+elif(time_B < time_A) and (time_A < time_C):
+    print("E o Pódio do GP de Mônaco é:")
+    print(f"{pilot_B} está no lugar mais alto do pódio com tempo de {time_B} horas de corrida.")
+    print(f"{pilot_A} está no segundo lugar do pódio com tempo de {time_A} horas de corrida.")
+    print(f"{pilot_C} está no terceiro lugar do pódio com tempo de {time_C} horas de corrida.")
+    print(f"Galvão, temos um momento histórico da Fórmula 1, {pilot_B} acaba de fazer história no GP de Mônaco ao terminar a corrida com {time_B} horas de prova.")
+elif(time_B < time_C) and (time_C < time_A):
+    print("E o Pódio do GP de Mônaco é:")
+    print(f"{pilot_B} está no lugar mais alto do pódio com tempo de {time_B} horas de corrida.")
+    print(f"{pilot_C} está no segundo lugar do pódio com tempo de {time_C} horas de corrida.")
+    print(f"{pilot_A} está no terceiro lugar do pódio com tempo de {time_A} horas de corrida.")
+    print(f"Galvão, temos um momento histórico da Fórmula 1, {pilot_B} acaba de fazer história no GP de Mônaco ao terminar a corrida com {time_B} horas de prova.")
+elif(time_C < time_A) and (time_A < time_B):
+    print("E o Pódio do GP de Mônaco é:")
+    print(f"{pilot_C} está no lugar mais alto do pódio com tempo de {time_C} horas de corrida.")
+    print(f"{pilot_A} está no segundo lugar do pódio com tempo de {time_A} horas de corrida.")
+    print(f"{pilot_B} está no terceiro lugar do pódio com tempo de {time_B} horas de corrida.")
+    print(f"Galvão, temos um momento histórico da Fórmula 1, {pilot_C} acaba de fazer história no GP de Mônaco ao terminar a corrida com {time_C} horas de prova.")
+elif(time_C < time_B) and (time_B < time_A):
+    print("E o Pódio do GP de Mônaco é:")
+    print(f"{pilot_C} está no lugar mais alto do pódio com tempo de {time_C} horas de corrida.")
+    print(f"{pilot_B} está no segundo lugar do pódio com tempo de {time_B} horas de corrida.")
+    print(f"{pilot_A} está no terceiro lugar do pódio com tempo de {time_A} horas de corrida.")
+    print(f"Galvão, temos um momento histórico da Fórmula 1, {pilot_C} acaba de fazer história no GP de Mônaco ao terminar a corrida com {time_C} horas de prova.")
