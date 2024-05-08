@@ -66,3 +66,10 @@ Eita, não entendi nada…
 Ao fim, você deverá printar a mensagem abaixo para desejar uma boa corrida a Charli
 
 "LET'S RIDE!"
+
+## Exemplo
+
+| Entrada                                                 | Saída                                                                        |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| TÔ EM ÚLTIMO! Tem uma curva vindo aí, me ajuda! DIREITA | PISA FUNDO FREIA AGORA E ME DIZ PARA QUE LADO É ENTÃO VIRA LOGO! LET'S RIDE! |
+| Esse cara não sai da minha frente... SOCORROOOOOOO      | Ultrapassa ele agora! Eita, não entendi nada… LET'S RIDE!                    |

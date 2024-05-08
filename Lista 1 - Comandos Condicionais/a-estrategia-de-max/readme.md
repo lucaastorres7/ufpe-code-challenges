@@ -82,9 +82,6 @@ Já para a abordagem de Max durante a corrida:
 
 ## Exemplo
 
-| Entrada               | Saída                                  |
-| --------------------- | -------------------------------------- |
-| ensolarado alta bom 1 | Estratégia de prova de Max Verstappen! |
-
-Está fazendo muito calor, opte por pneus de compostos mais duros para que eles durem mais!
-Max, você vai largar na frente e teve um desempenho muito bom nos treinamentos. Pode optar por uma estratégia mais conservadora e com menos paradas nos boxes. |
+| Entrada               | Saída                                                                                                                                                                                                                                                                                            |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ensolarado alta bom 1 | Estratégia de prova de Max Verstappen! Está fazendo muito calor, opte por pneus de compostos mais duros para que eles durem mais! Max, você vai largar na frente e teve um desempenho muito bom nos treinamentos. Pode optar por uma estratégia mais conservadora e com menos paradas nos boxes. |

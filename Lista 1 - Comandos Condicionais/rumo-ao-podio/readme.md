@@ -42,3 +42,9 @@ E o Pódio do GP de Mônaco é:
 - Ao final, você deve imprimir os sinceros sentimentos do querido comentarista Galvão bueno a respeito do recorde estabelecido.
 
 "Galvão, temos um momento histórico da Fórmula 1, {1° Colocado} acaba de fazer história no GP de Mônaco ao terminar a corrida com {Tempo do 1° Colocado} horas de prova."
+
+## Exemplo
+
+| Entrada                                                           | Saída                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sérgio Leclerc 1.23 Riccardo Massa 1.50 Calegario Verstappen 2.31 | E o Pódio do GP de Mônaco é: Sérgio Leclerc está no lugar mais alto do pódio com tempo de 1.23 horas de corrida. Riccardo Massa está no segundo lugar do pódio com tempo de 1.5 horas de corrida. Calegario Verstappen está no terceiro lugar do pódio com tempo de 2.31 horas de corrida. Galvão, temos um momento histórico da Fórmula 1, Sérgio Leclerc acaba de fazer história no GP de Mônaco ao terminar a corrida com 1.23 horas de prova. |

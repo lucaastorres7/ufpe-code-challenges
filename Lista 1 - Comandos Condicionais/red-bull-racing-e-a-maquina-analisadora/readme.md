@@ -1,4 +1,4 @@
-# Batalha nas Curvas 🏎️
+# Red Bull Racing e a Máquina Analisadora
 
 Com o objetivo de fazer uma análise sobre o desempenho de seus pilotos nas competições, a equipe do Red Bull Racing pediu pra você, calouro do Centro de Informática, fazer um programa que imprima um parecer sobre o rendimento do atleta de acordo com os dados recebidos.
 
