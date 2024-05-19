@@ -1,4 +1,4 @@
-# Retrospectiva do Kanye
+# Kanye West e Sua Vontade de Aprender IP
 
 Após uma carreira musical de sucesso com muitos shows ao redor do mundo e músicas em alta, Kanye West decide finalmente em seguir seu sonho e carreira que tanto queria em toda sua vida: se mudar para Recife e ser aluno do CIn para aprender IP no GRAD 5!
 

@@ -1,4 +1,4 @@
-# A Paixão de Alice por Leclerc
+# Kanye para Presidente
 
 Após mais de 20 anos na indústria musical, Kanye West resolveu se candidatar à presidência dos Estados Unidos durante as eleições que ocorreram no ano de 2020. Contudo, o cantor não obteve sucesso em sua primeira empreitada, obtendo pouquíssimos votos naquela ocasião.
 
